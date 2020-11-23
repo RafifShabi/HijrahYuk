@@ -1,0 +1,20 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+
+/* Tambahkan CSS untuk header-right */
+  .header-right{
+  display: none;
+  }
+  
+  
+  /* Tambahkan CSS untuk menu-icon */
+  .menu-icon{
+   display: block;
+  }
+}
+
